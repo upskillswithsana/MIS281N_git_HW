@@ -1,0 +1,10 @@
+Reading From : https://lakefs.io/data-version-control/dvc-best-practices/
+
+According to the article published by lakeFS, data version control is essential for managing the complexity and evolution of modern data environments. By applying practices similar to code versioning, teams can improve reproducibility, collaboration, data quality, and compliance. Choosing the right tools and processes enables efficient tracking, isolation, and governance of datasets across the entire data lifecycle.
+
+Key Learnings from the Article:
+
+1- Data version control ensures reproducibility, traceability, and better collaboration across teams.
+2- Branching and committing enable isolated experimentation and safer deployments.
+3- Automated hooks and version retention policies support data governance and minimize manual errors.
+4- A strong versioning strategy enhances data pipeline reliability and overall team efficiency.
